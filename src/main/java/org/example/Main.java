@@ -9,7 +9,6 @@ public class Main {
 //        Assign values to the variables and perform basic arithmetic operations (e.g., addition, subtraction, multiplication, division).
 //        Print the results of each operation to the console.
 
-
         int a = 6;
         int b = 3;
 
