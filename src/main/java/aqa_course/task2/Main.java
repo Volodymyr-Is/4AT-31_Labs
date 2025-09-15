@@ -1,4 +1,4 @@
-package org.example;
+package aqa_course.task2;
 
 public class Main {
     public static void main(String[] args) {
@@ -21,5 +21,10 @@ public class Main {
         System.out.println("Sub: " + sub);
         System.out.println("Mult: " + mult);
         System.out.println("Div: " + div);
+
+
+
+
+
     }
 }
