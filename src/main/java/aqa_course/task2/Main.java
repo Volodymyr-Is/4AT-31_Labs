@@ -21,10 +21,5 @@ public class Main {
         System.out.println("Sub: " + sub);
         System.out.println("Mult: " + mult);
         System.out.println("Div: " + div);
-
-
-
-
-
     }
 }
