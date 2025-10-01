@@ -39,7 +39,7 @@ public class Task11Test {
         Sender.sendKeys(driver, userName, userEmail, currentAddress, permanentAddress);
 
         // Step 3: Submit
-        driver.findElement(By.xpath("//button[text()='Submit']")).click();
+        Sender.submit(driver);
 
         // Step 4: Validate success alert
         String userNameOutput = OutputForm.getOutputText(driver, "name");
