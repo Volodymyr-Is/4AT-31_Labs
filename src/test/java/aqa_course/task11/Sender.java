@@ -10,4 +10,8 @@ public class Sender {
         driver.findElement(By.id("currentAddress")).sendKeys(currentAddress);
         driver.findElement(By.id("permanentAddress")).sendKeys(permanentAddress);
     }
+
+    public static void submit(WebDriver driver) {
+        driver.findElement(By.xpath("//button[text()='Submit']")).click();
+    }
 }
