@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.io.File;
 
 public class DriverProvider {
-    private static WebDriver driver;
+    public static WebDriver driver;
 
     public static synchronized WebDriver getDriver() {
         File chromeDriverFile = new File("src/chromedriver/chromedriver.exe");
