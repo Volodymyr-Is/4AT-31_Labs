@@ -1,5 +1,6 @@
 package aqa_course.test12;
 
+import aqa_course.task12.SubmitFormBusinessObject;
 import io.github.bonigarcia.wdm.managers.ChromeDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -29,4 +30,7 @@ public class Task12Test {
     void teardown() {
         driver.quit();
     }
+
+
+
 }
