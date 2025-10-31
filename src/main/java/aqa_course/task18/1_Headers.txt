@@ -1,0 +1,272 @@
+GET http://localhost/login_page.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost/my_view_page.php
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6
+Cookie: MANTIS_secure_session=1; PHPSESSID=cubukh33qiqtqslm9lpmprum9v
+
+
+HTTP/1.1 200 OK
+Date: Mon, 27 Oct 2025 14:21:33 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+X-Powered-By: PHP/8.0.30
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Mon, 27 Oct 2025 14:21:33 GMT
+X-Content-Type-Options: nosniff
+Expires: Mon, 27 Oct 2025 14:21:33 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self'; frame-ancestors 'none'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 1809
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+
+
+------------------------------------------------------------------
+
+POST http://localhost/login_password_page.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Content-Length: 34
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Origin: http://localhost
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost/login_page.php
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6
+Cookie: MANTIS_secure_session=1; PHPSESSID=cubukh33qiqtqslm9lpmprum9v
+
+
+HTTP/1.1 200 OK
+Date: Mon, 27 Oct 2025 14:21:37 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+X-Powered-By: PHP/8.0.30
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Mon, 27 Oct 2025 14:21:37 GMT
+X-Content-Type-Options: nosniff
+Expires: Mon, 27 Oct 2025 14:21:37 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self'; frame-ancestors 'none'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 1696
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+
+
+------------------------------------------------------------------
+
+POST http://localhost/login.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Content-Length: 70
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Origin: http://localhost
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost/login_password_page.php
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6
+Cookie: MANTIS_secure_session=1; PHPSESSID=cubukh33qiqtqslm9lpmprum9v
+
+
+HTTP/1.1 302 Found
+Date: Mon, 27 Oct 2025 14:21:43 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+X-Powered-By: PHP/8.0.30
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Mon, 27 Oct 2025 14:21:43 GMT
+X-Content-Type-Options: nosniff
+Expires: Mon, 27 Oct 2025 14:21:43 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self'; frame-ancestors 'none'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:
+Set-Cookie: MANTIS_secure_session=1; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: MANTIS_STRING_COOKIE=GQqrSZzXYqzFNQytzfHbpHSA6Hf10QLr54nw6V259jVa-nAP1qGjgaK4XBnfwajI; path=/; HttpOnly; SameSite=Lax
+Location: http://localhost/login_cookie_test.php?return=index.php
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 20
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+
+
+
+------------------------------------------------------------------
+
+GET http://localhost/login_cookie_test.php?return=index.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Referer: http://localhost/login_password_page.php
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6
+Cookie: MANTIS_secure_session=1; PHPSESSID=cubukh33qiqtqslm9lpmprum9v; MANTIS_STRING_COOKIE=GQqrSZzXYqzFNQytzfHbpHSA6Hf10QLr54nw6V259jVa-nAP1qGjgaK4XBnfwajI
+
+
+HTTP/1.1 302 Found
+Date: Mon, 27 Oct 2025 14:21:43 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+X-Powered-By: PHP/8.0.30
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Mon, 27 Oct 2025 14:21:43 GMT
+X-Content-Type-Options: nosniff
+Expires: Mon, 27 Oct 2025 14:21:43 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self'; frame-ancestors 'none'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:
+Location: http://localhost/index.php
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 20
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+
+
+
+------------------------------------------------------------------
+
+GET http://localhost/index.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Referer: http://localhost/login_password_page.php
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6
+Cookie: MANTIS_secure_session=1; PHPSESSID=cubukh33qiqtqslm9lpmprum9v; MANTIS_STRING_COOKIE=GQqrSZzXYqzFNQytzfHbpHSA6Hf10QLr54nw6V259jVa-nAP1qGjgaK4XBnfwajI
+
+
+HTTP/1.1 302 Found
+Date: Mon, 27 Oct 2025 14:21:43 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+X-Powered-By: PHP/8.0.30
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Mon, 27 Oct 2025 14:21:43 GMT
+X-Content-Type-Options: nosniff
+Expires: Mon, 27 Oct 2025 14:21:43 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self'; frame-ancestors 'none'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:
+Location: http://localhost/my_view_page.php
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 20
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+
+
+
+------------------------------------------------------------------
+
+GET http://localhost/my_view_page.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Referer: http://localhost/login_password_page.php
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uk-UA,uk;q=0.9,ru;q=0.8,en-US;q=0.7,en;q=0.6
+Cookie: MANTIS_secure_session=1; PHPSESSID=cubukh33qiqtqslm9lpmprum9v; MANTIS_STRING_COOKIE=GQqrSZzXYqzFNQytzfHbpHSA6Hf10QLr54nw6V259jVa-nAP1qGjgaK4XBnfwajI
+
+
+HTTP/1.1 200 OK
+Date: Mon, 27 Oct 2025 14:21:43 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+X-Powered-By: PHP/8.0.30
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Mon, 27 Oct 2025 14:21:43 GMT
+X-Content-Type-Options: nosniff
+Expires: Mon, 27 Oct 2025 14:21:43 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self'; frame-ancestors 'none'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 3032
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+
+
+------------------------------------------------------------------
+
+CONNECT passwordsleakcheck-pa.googleapis.com:443 HTTP/1.1
+Host: passwordsleakcheck-pa.googleapis.com:443
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 16:21:44.036
+Connection: close
+
+
+
+------------------------------------------------------------------
+
