@@ -1,0 +1,109 @@
+[2025-10-06 17:06:54] === TestNG Execution Started ===
+[2025-10-06 17:06:54] [SUITE START] Default Suite
+[2025-10-06 17:06:54] [TEST START] Task1 | Start time: 2025-10-06 17:06:54
+[2025-10-06 17:06:58] [PASS] task13 | Duration: 3174 ms
+[2025-10-06 17:06:59] [TEST FINISH] Task1 | End time: 2025-10-06 17:06:59
+[2025-10-06 17:06:59] [SUITE FINISH] Default Suite
+[2025-10-06 17:06:59] === TestNG Execution Finished ===
+[2025-10-10 14:46:18] === TestNG Execution Started ===
+[2025-10-10 14:46:18] [SUITE START] Default Suite
+[2025-10-10 14:46:18] [TEST START] Task1 | Start time: 2025-10-10 14:46:18
+[2025-10-10 14:46:26] === TestNG Execution Started ===
+[2025-10-10 14:46:26] [SUITE START] Default Suite
+[2025-10-10 14:46:26] [TEST START] Task1 | Start time: 2025-10-10 14:46:26
+[2025-10-10 14:46:34] [TEST FINISH] Task1 | End time: 2025-10-10 14:46:34
+[2025-10-10 14:46:34] [SUITE FINISH] Default Suite
+[2025-10-10 14:49:04] === TestNG Execution Started ===
+[2025-10-10 14:49:04] [SUITE START] Default Suite
+[2025-10-10 14:49:04] [TEST START] Task1 | Start time: 2025-10-10 14:49:04
+[2025-10-10 14:49:13] [TEST FINISH] Task1 | End time: 2025-10-10 14:49:13
+[2025-10-10 14:49:13] [SUITE FINISH] Default Suite
+[2025-10-10 14:50:40] === TestNG Execution Started ===
+[2025-10-10 14:50:40] [SUITE START] Default Suite
+[2025-10-10 14:50:40] [TEST START] Task1 | Start time: 2025-10-10 14:50:40
+[2025-10-10 14:50:46] [TEST FINISH] Task1 | End time: 2025-10-10 14:50:46
+[2025-10-10 14:50:46] [SUITE FINISH] Default Suite
+[2025-10-10 14:52:19] === TestNG Execution Started ===
+[2025-10-10 14:52:19] [SUITE START] Default Suite
+[2025-10-10 14:52:19] [TEST START] Task1 | Start time: 2025-10-10 14:52:19
+[2025-10-10 14:52:26] [TEST FINISH] Task1 | End time: 2025-10-10 14:52:26
+[2025-10-10 14:52:26] [SUITE FINISH] Default Suite
+[2025-10-10 14:52:26] === TestNG Execution Finished ===
+[2025-10-10 14:55:28] === TestNG Execution Started ===
+[2025-10-10 14:55:28] [SUITE START] Default Suite
+[2025-10-10 14:55:28] [TEST START] Task1 | Start time: 2025-10-10 14:55:28
+[2025-10-10 14:55:39] [TEST FINISH] Task1 | End time: 2025-10-10 14:55:39
+[2025-10-10 14:55:39] [SUITE FINISH] Default Suite
+[2025-10-10 14:55:39] === TestNG Execution Finished ===
+[2025-10-10 14:57:51] === TestNG Execution Started ===
+[2025-10-10 14:57:51] [SUITE START] Default Suite
+[2025-10-10 14:57:51] [TEST START] Task1 | Start time: 2025-10-10 14:57:51
+[2025-10-10 14:58:00] [TEST FINISH] Task1 | End time: 2025-10-10 14:58:00
+[2025-10-10 14:58:00] [SUITE FINISH] Default Suite
+[2025-10-10 14:58:00] === TestNG Execution Finished ===
+[2025-10-10 14:59:31] === TestNG Execution Started ===
+[2025-10-10 14:59:31] [SUITE START] Default Suite
+[2025-10-10 14:59:31] [TEST START] Task1 | Start time: 2025-10-10 14:59:31
+[2025-10-10 14:59:37] [TEST FINISH] Task1 | End time: 2025-10-10 14:59:37
+[2025-10-10 14:59:37] [SUITE FINISH] Default Suite
+[2025-10-10 14:59:37] === TestNG Execution Finished ===
+[2025-10-10 15:00:13] === TestNG Execution Started ===
+[2025-10-10 15:00:13] [SUITE START] Default Suite
+[2025-10-10 15:00:13] [TEST START] Task1 | Start time: 2025-10-10 15:00:13
+[2025-10-10 15:00:21] [TEST FINISH] Task1 | End time: 2025-10-10 15:00:21
+[2025-10-10 15:00:21] [SUITE FINISH] Default Suite
+[2025-10-10 15:00:21] === TestNG Execution Finished ===
+[2025-10-10 15:05:58] === TestNG Execution Started ===
+[2025-10-10 15:05:58] [SUITE START] Default Suite
+[2025-10-10 15:05:58] [TEST START] Task1 | Start time: 2025-10-10 15:05:58
+[2025-10-10 15:06:04] [TEST FINISH] Task1 | End time: 2025-10-10 15:06:04
+[2025-10-10 15:06:04] [SUITE FINISH] Default Suite
+[2025-10-10 15:06:04] === TestNG Execution Finished ===
+[2025-10-10 15:12:30] === TestNG Execution Started ===
+[2025-10-10 15:12:30] [SUITE START] Default Suite
+[2025-10-10 15:12:30] [TEST START] Task1 | Start time: 2025-10-10 15:12:30
+[2025-10-10 15:12:33] [TEST FINISH] Task1 | End time: 2025-10-10 15:12:33
+[2025-10-10 15:12:33] [SUITE FINISH] Default Suite
+[2025-10-10 15:12:33] === TestNG Execution Finished ===
+[2025-10-10 15:12:43] === TestNG Execution Started ===
+[2025-10-10 15:12:43] [SUITE START] Default Suite
+[2025-10-10 15:12:43] [TEST START] Task1 | Start time: 2025-10-10 15:12:43
+[2025-10-10 15:12:52] [TEST FINISH] Task1 | End time: 2025-10-10 15:12:52
+[2025-10-10 15:12:52] [SUITE FINISH] Default Suite
+[2025-10-10 15:12:52] === TestNG Execution Finished ===
+[2025-10-10 15:18:11] === TestNG Execution Started ===
+[2025-10-10 15:18:11] [SUITE START] Default Suite
+[2025-10-10 15:18:11] [TEST START] Task1 | Start time: 2025-10-10 15:18:11
+[2025-10-10 15:18:19] [TEST FINISH] Task1 | End time: 2025-10-10 15:18:19
+[2025-10-10 15:18:19] [SUITE FINISH] Default Suite
+[2025-10-10 15:18:19] === TestNG Execution Finished ===
+[2025-10-10 15:19:16] === TestNG Execution Started ===
+[2025-10-10 15:19:16] [SUITE START] Default Suite
+[2025-10-10 15:19:16] [TEST START] Task1 | Start time: 2025-10-10 15:19:16
+[2025-10-10 15:19:23] [TEST FINISH] Task1 | End time: 2025-10-10 15:19:23
+[2025-10-10 15:19:23] [SUITE FINISH] Default Suite
+[2025-10-10 15:19:23] === TestNG Execution Finished ===
+[2025-10-10 15:21:34] === TestNG Execution Started ===
+[2025-10-10 15:21:34] [SUITE START] Default Suite
+[2025-10-10 15:21:34] [TEST START] Task1 | Start time: 2025-10-10 15:21:34
+[2025-10-10 15:21:40] [TEST FINISH] Task1 | End time: 2025-10-10 15:21:40
+[2025-10-10 15:21:40] [SUITE FINISH] Default Suite
+[2025-10-10 15:21:40] === TestNG Execution Finished ===
+[2025-10-10 15:29:03] === TestNG Execution Started ===
+[2025-10-10 15:29:03] [SUITE START] Default Suite
+[2025-10-10 15:29:03] [TEST START] Task1 | Start time: 2025-10-10 15:29:03
+[2025-10-10 15:29:09] [TEST FINISH] Task1 | End time: 2025-10-10 15:29:09
+[2025-10-10 15:29:09] [SUITE FINISH] Default Suite
+[2025-10-10 15:29:09] === TestNG Execution Finished ===
+[2025-10-10 15:31:11] === TestNG Execution Started ===
+[2025-10-10 15:31:11] [SUITE START] Default Suite
+[2025-10-10 15:31:11] [TEST START] Task1 | Start time: 2025-10-10 15:31:11
+[2025-10-10 15:31:16] [TEST FINISH] Task1 | End time: 2025-10-10 15:31:16
+[2025-10-10 15:31:16] [SUITE FINISH] Default Suite
+[2025-10-10 15:31:16] === TestNG Execution Finished ===
+[2025-10-10 16:47:26] === TestNG Execution Started ===
+[2025-10-10 16:47:26] [SUITE START] Default Suite
+[2025-10-10 16:47:26] [TEST START] Task1 | Start time: 2025-10-10 16:47:26
+[2025-10-10 16:47:39] [TEST FINISH] Task1 | End time: 2025-10-10 16:47:39
+[2025-10-10 16:47:39] [SUITE FINISH] Default Suite
+[2025-10-10 16:47:39] === TestNG Execution Finished ===
